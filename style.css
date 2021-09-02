@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playfair+Display&family=Courgette&family=Ubuntu:ital@1&display=swap');
+
+body{
+    overflow-x: hidden;
+}
+#heading-text h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+#book-name{
+    font-family: 'Courgette', cursive;
+    
+}
+#author-name{
+    font-family: 'Lobster', cursive;
+}
+#publisher-name{
+    font-family: 'Playfair Display', serif;
+}
+#spinner{
+    display: none;
+    color: rgb(0, 227, 235);      
+}
+#search-result{
+    display: none;
+}
